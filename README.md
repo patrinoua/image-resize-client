@@ -1,3 +1,12 @@
+## Image Resize - Client
+
+This app uses an external api (http://angeliki-image-resize-server.herokuapp.com) to resize images
+
+to run: ```npm start```
+
+-----
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
