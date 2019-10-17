@@ -2,7 +2,7 @@
 
 This app uses an external api (http://angeliki-image-resize-server.herokuapp.com) to resize images
 
-to run: npm start
+to run: ```npm start```
 
 -----
 
